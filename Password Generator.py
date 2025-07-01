@@ -12,4 +12,4 @@ def generate_password(length=12):
 
 # Example usage:
 password = generate_password(16)  # You can change the length as needed
-print("Generated Password:", password)
+print("Generated Password:", password)  
