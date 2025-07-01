@@ -49,4 +49,4 @@ def calculator():
         print()
 
 if __name__ == "__main__":
-    calculator()
+    calculator()  
